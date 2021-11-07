@@ -1,0 +1,9 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    defaultFontSize: 12
+    fontFamily: "'NotoSansMono Nerd Font', Ligconsolata, Menlo, Consolas, DejaVu Sans Mono, monospace"
+    fontSize: 13
+  "exception-reporting":
+    userId: "6aa1c707-f97d-4e9f-af51-1f40fb22e1d8"
